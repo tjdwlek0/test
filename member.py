@@ -1,2 +1,2 @@
-member = 'jonghyuk'
+member = 'seongji'
 
